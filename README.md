@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/gulizada"><img src="https://api.daily.dev/devcards/v2/q9qBdunif.png?type=default&r=d4o" width="356" alt="farhad's Dev Card"/></a>
-<a href="https://app.daily.dev/gulizada"><img src="https://api.daily.dev/devcards/v2/q9qBdunif.png?type=wide&r=dqb" width="652" alt="farhad's Dev Card"/></a>
